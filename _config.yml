@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:  https://telegeam.github.io/clashnodev2raynode
+url: https://telegeam.github.io/blog1
 date_format: "ordinal"
 title: 免费节点 free node
 subtitle: "免费节点 free node"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
 # 源码仓库，请替换成自己的
-repository: telegeam/clashnodev2raynode
+repository: telegeam/telegeam.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
