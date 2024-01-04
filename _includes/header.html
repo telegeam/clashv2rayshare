@@ -32,8 +32,7 @@
     {% for css in page.css %}
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/{{css}}">
     {% endfor %}
-
-    {% if site.ios_app_name %}
+{% if site.ios_app_name %}
        <meta name="apple-mobile-web-app-capable" content="yes">
        <meta name="apple-mobile-web-app-status-bar-style" content="black">
     {% endif %}
@@ -50,10 +49,7 @@
     <meta name="keywords" content="{{ keywords | strip_html | strip_newlines}}">
     <meta name="og:keywords" content="{{ keywords | strip_html | strip_newlines}}">
       {% if page.excerpt %}
-
- 
-
-   <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
+<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
     <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines}}">
       {% else if page.description %}
     <meta name="description" content="{{ page.description | strip_html | strip_newlines}}"> 
