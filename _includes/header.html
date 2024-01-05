@@ -3,7 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<<<<<<< HEAD
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+=======
+	    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+>>>>>>> d3091e27176fa20a3abb570a14da1491f658ba12
 	<meta name="google-site-verification" content="Iml7XzoKdc9he4zfWAd7MizyvD_5pBxu6mnRiud5zY4" />
     <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1530351503997410"
@@ -32,8 +36,7 @@
     {% for css in page.css %}
     <link rel="stylesheet" href="{{ assets_base_url }}/assets/css/{{css}}">
     {% endfor %}
-
-    {% if site.ios_app_name %}
+{% if site.ios_app_name %}
        <meta name="apple-mobile-web-app-capable" content="yes">
        <meta name="apple-mobile-web-app-status-bar-style" content="black">
     {% endif %}
@@ -49,6 +52,7 @@
       {% endif %}
     <meta name="keywords" content="{{ keywords | strip_html | strip_newlines}}">
     <meta name="og:keywords" content="{{ keywords | strip_html | strip_newlines}}">
+<<<<<<< HEAD
 	 {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
       {% if page.description %}
@@ -61,6 +65,10 @@
 	<meta name="og:description" content="{{ page.description | strip_html | strip_newlines}}">
  <!---      {% if page.excerpt %}
    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
+=======
+      {% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
+>>>>>>> d3091e27176fa20a3abb570a14da1491f658ba12
     <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines}}">
       {% else if page.description %}
     <meta name="description" content="{{ page.description | strip_html | strip_newlines}}"> 
@@ -72,7 +80,7 @@
     {% else %}
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
-    {% endif %}   --->
+    {% endif %}   
     {% if page.og_image_url %}
     <meta property="og:image" content="{{ page.og_image_url }}">
     {% else %}
