@@ -28,7 +28,7 @@ topmost: true
 点击名称可以看到详情
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
-| :------- | :--- | :--- | :--- | :--- | :------- |
+| :------- | :--- | :--- | :--------- | :-------- |
 | [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
 | [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) | 无 | 10 元 200G/月 | ❌不支持 |
 | [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | 无 | 10 元 200G/月 | ❌不支持 |
