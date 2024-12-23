@@ -55,19 +55,6 @@
 
 * * *
 
-### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
-
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
-
-
-试用：
-
-最便宜的订阅有15.8元 160G/月。
-
-集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
-
-* * *
-
 ### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
 
 注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
@@ -78,6 +65,19 @@
 最便宜的订阅有5元 5000G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
+
+* * *
+
+### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
+
+注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+
+
+试用：
+
+最便宜的订阅有15.8元 160G/月。
+
+集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
 
 * * *
 
