@@ -19,9 +19,9 @@ keywords: 12月21日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节
 
 复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
 
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -63,7 +63,7 @@ keywords: 12月21日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节
 
 试用：
 
-最便宜的订阅有5元 5000G/月。
+最便宜的订阅有9.9元 80G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 

@@ -76,7 +76,7 @@ topmost: true
 
 ### [稳连云](#稳连云)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -118,7 +118,7 @@ topmost: true
 
 试用：
 
-最便宜的订阅有5元 5000G/月。
+最便宜的订阅有9.9元 80G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 
