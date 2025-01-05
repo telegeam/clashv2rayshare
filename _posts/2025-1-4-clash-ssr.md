@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 2025年「1月4日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
+title: 2025年「1月5日」最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网]
-description: 1月4日clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
-keywords: 1月4日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,翻墙必备,免费节点,科学上网, 
+description: 1月5日clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
+keywords: 1月5日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,翻墙必备,免费节点,科学上网, 
 ---
 关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息
 
@@ -13,7 +13,7 @@ keywords: 1月4日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
 
-本次更新共258个可用节点，最高bh速度25.97M/S。
+本次更新共255个可用节点，最高bh速度25.12M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
@@ -146,11 +146,11 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/1/20250104.txt
+https://a.nodeshare.xyz/uploads/2025/1/20250105.txt
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/1/20250104.yaml
+https://a.nodeshare.xyz/uploads/2025/1/20250105.yaml
 
 温馨提示：
 
