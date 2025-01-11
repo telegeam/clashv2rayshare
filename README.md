@@ -1,6 +1,6 @@
 ---
-created: 2025-1-10T08:05:32+08:00
-modified: 2025-1-10T08:21:23+08:00
+created: 2025-1-11T08:05:32+08:00
+modified: 2025-1-11T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -47,30 +47,6 @@ modified: 2025-1-10T08:21:23+08:00
 
 * * *
 
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
-
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-试用：
-
-最便宜的订阅有9.9元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
