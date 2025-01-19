@@ -1,6 +1,6 @@
 ---
-created: 2025-1-18T08:05:32+08:00
-modified: 2025-1-18T08:21:23+08:00
+created: 2025-1-19T08:05:32+08:00
+modified: 2025-1-19T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -61,18 +61,6 @@ modified: 2025-1-18T08:21:23+08:00
 
 * * *
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 ### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
