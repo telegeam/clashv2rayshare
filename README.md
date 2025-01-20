@@ -1,6 +1,6 @@
 ---
-created: 2025-1-19T08:05:32+08:00
-modified: 2025-1-19T08:21:23+08:00
+created: 2025-1-20T08:05:32+08:00
+modified: 2025-1-20T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -10,6 +10,20 @@ modified: 2025-1-19T08:21:23+08:00
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
+
+
+### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+
+注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+
+
+试用：
+
+最便宜的订阅有10元 100G/月。
+
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+
+* * *
 ### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
 
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
