@@ -29,7 +29,7 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
+| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) | 无 | 10 元 200G/月 | ❌不支持 |
 | [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) | 无 | 10 元 200G/月 | ❌不支持 |
 | [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | 无 | 10 元 200G/月 | ❌不支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) | 无 | 9.9元 140G/月 | ❌不支持 |
@@ -41,13 +41,13 @@ topmost: true
 | [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) | 无 | 30元 390G/半年 | ❌不支持 | 暂无 |
 | [xxai](#xxai) | [xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG) | 无 | 16.9元 100G/月 | ✔支持 |
 | [青云梯](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0) | 无 | 25元 150G/月 | ❌不支持 |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) | 无 | 10 元 200G/月 | ❌不支持 |
+| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) | 无 | 10 元 200G/月 | ❌不支持 |
 
 ## [简介](#简介)
 
 ### [EF](#ef)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
@@ -233,7 +233,7 @@ topmost: true
 
 ### [EF](#ef)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无

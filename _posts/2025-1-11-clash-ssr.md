@@ -19,9 +19,9 @@ keywords: 1月11日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
 
-### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
@@ -77,12 +77,12 @@ keywords: 1月11日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 ###  高速机场推荐1
 
-[【EFCloud】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【EFCloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐2
 
@@ -104,13 +104,13 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 高速机场推荐4
 
-[【快猫】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ###  高速机场推荐5
 
