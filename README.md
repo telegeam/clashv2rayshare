@@ -1,6 +1,6 @@
 ---
-created: 2025-1-23T08:05:32+08:00
-modified: 2025-1-23T08:21:23+08:00
+created: 2025-1-24T08:05:32+08:00
+modified: 2025-1-24T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -12,18 +12,6 @@ modified: 2025-1-23T08:21:23+08:00
 
 
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-试用：
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
 
 ### [冲上云霄](#冲上云霄)
 
@@ -37,14 +25,14 @@ modified: 2025-1-23T08:21:23+08:00
 
 * * *
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
@@ -89,34 +77,60 @@ modified: 2025-1-23T08:21:23+08:00
 * * *
 
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 试用：
 
+最便宜的订阅有9元 120G/月。
+
+最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
+
+* * *
+
+### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+
+
+试用：1天 2G
+
 最便宜的订阅有10元 100G/月。
 
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+* * *
+
+
+### [冲上云霄](#冲上云霄)
+
+注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+
+试用：1天 1G
+
+最便宜的订阅有5元 150G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
 
 * * *
 ###  高速机场推荐1
 
-[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【EFCloud官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-###  高速机场推荐2
+<!---###  高速机场推荐2
 
 [【FCCloud】](https://in.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://in.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+注册地址：[【FCCloud（点击注册）】](https://in.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)--->
 
 ### 高速机场推荐3
 
