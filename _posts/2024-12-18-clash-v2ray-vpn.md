@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2024年便宜好用的翻墙机场推荐评测长期更新 
+title:  2025年便宜好用的翻墙机场推荐评测长期更新 
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链]
 description: Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,
 keywords: Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链
@@ -8,7 +8,7 @@ topmost: true
 ---
 
 
-2024 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
+2025 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
 
 ## [机场推荐说明](#机场推荐说明)
 
