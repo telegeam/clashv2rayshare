@@ -29,35 +29,39 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) | 无 | 10 元 200G/月 | ❌不支持 |
-| [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) | 无 | 10 元 200G/月 | ❌不支持 |
-| [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) | 无 | 10 元 200G/月 | ❌不支持 |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) | 无 | 9.9元 140G/月 | ❌不支持 |
-| [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)| 无 | 9.9元 140G/月 | ❌不支持 |
+| [KK加速](#ef) | [点击注册(https://kkjiasu.top/#/register?code=lhGhQflc) | |8 元 200G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
+| [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [ssone](#ssone) | [hello-ssone.com](https://hello-ssone.com/register?aff=0CNXS3Mx) | 1天 1G | 10元 100G/月 | ❌不支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
-| [Aladdin](#aladdin) | [https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr) | 无 | 30元 390G/半年 | ❌不支持 | 暂无 |
-| [xxai](#xxai) | [xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG) | 无 | 16.9元 100G/月 | ✔支持 |
-| [青云梯](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0) | 无 | 25元 150G/月 | ❌不支持 |
-| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) | 无 | 10 元 200G/月 | ❌不支持 |
 
 ## [简介](#简介)
 
-### [EF](#ef)
+### [KK加速](#ef)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
 
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
 * * *
 
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+
+
+试用：
+
+最便宜的订阅有9元 120G/月。
+
+最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
+***
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
@@ -111,20 +115,6 @@ topmost: true
 
 * * *
 
-### [spcloud](#spcloud)
-
-注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
-
-
-试用：
-
-最便宜的订阅有10元 100G/月。
-
-最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
-
-* * *
-
-
 ### [西游云](#西游云)
 
 注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
@@ -164,61 +154,6 @@ topmost: true
 
 * * *
 
-### [龙猫云](#龙猫云)
-
-注册链接：[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=ra54cwhy)
-
-
-试用：无
-
-最便宜的订阅有15元 150G/月。
-
-**特性如下**
-
-+   超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-+   IPLC深港、沪美、沪日专线，
-+   流媒体完美解锁（包括Netflix , Disney+, HBO等）
-+   完美解锁ChatGPT、Gemini、Copilot
-+   支持Tiktok本土短视频运营和直播
-
-* * *
-
-### [Aladdin](#aladdin)
-
-注册链接：[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=mN5ERopkOr)
-
-试用：无
-
-最便宜的订阅有30元 390G/半年。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
-
-### [xxai](#xxai)
-
-注册链接：[xxai.uk](https://xx-ai.co?invite_code=xijJQ0UG)
-
-
-最便宜的订阅有16.9元 100G/月。
-
-节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
-* * *
-
-### [青云梯](#青云梯)
-
-注册链接：[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=guLyIdy0)
-
-
-试用：无
-
-最便宜的订阅有25元 150G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
-* * *
-
 ### [冲上云霄](#冲上云霄)
 
 注册链接：[cpdd.one](https://cpdd.one/?r=32083)
@@ -230,14 +165,3 @@ topmost: true
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
 
 * * *
-
-### [EF](#ef)
-
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
