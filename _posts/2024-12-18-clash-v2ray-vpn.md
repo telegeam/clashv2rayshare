@@ -29,12 +29,12 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [点击注册(https://kkjiasu.top/#/register?code=lhGhQflc) | |8 元 200G/月 |  |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
-| [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
-| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [https://jiasu.la/?r=42350](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
+| [KK加速](#ef) | [点击注册](https://kkjiasu.top/#/register?code=lhGhQflc) | |8 元 200G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
+| [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
+| [flybit](#flybit) | [点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击注册](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击注册](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 
 ## [简介](#简介)
 
@@ -53,7 +53,7 @@ topmost: true
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击注册](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 试用：
@@ -64,7 +64,7 @@ topmost: true
 ***
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 试用：
 
@@ -78,7 +78,7 @@ topmost: true
 
 ### [稳连云](#稳连云)
 
-注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
+注册链接：[点击注册](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -90,7 +90,7 @@ topmost: true
 
 ### [狗狗加速器](#狗狗加速器)
 
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击注册](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 试用：
@@ -102,18 +102,6 @@ topmost: true
 * * *
 
 
-### [可乐云](#可乐云)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 ### [西游云](#西游云)
 
@@ -130,7 +118,7 @@ topmost: true
 
 ### [flybit](#flybit)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -143,7 +131,7 @@ topmost: true
 
 ### [加速啦](#加速啦)
 
-注册链接：[jiasu.la](https://jiasu.la/?r=42350)
+注册链接：[点击注册j](https://jiasu.la/?r=42350)
 
 
 试用：1G 不限时
@@ -156,7 +144,7 @@ topmost: true
 
 ### [冲上云霄](#冲上云霄)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击注册](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
