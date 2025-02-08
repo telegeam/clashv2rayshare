@@ -156,12 +156,12 @@ keywords: 2月8日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 v2ray订阅链接:
 
-https://a.nodeshare.xyz/uploads/2025/2/20250207.txt
+https://a.nodeshare.xyz/uploads/2025/2/20250208.txt
 
 
 clash订阅链接：
 
-https://a.nodeshare.xyz/uploads/2025/2/20250207.yaml
+https://a.nodeshare.xyz/uploads/2025/2/20250208.yaml
 
 温馨提示：
 
