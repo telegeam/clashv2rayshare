@@ -13,7 +13,7 @@ keywords: 3月17日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
 
-本次更新共292个可用节点，最高速度17.35M/S。
+本次更新共285个可用节点，最高速度17.32M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本、东南亚、中东、南美等多个区域。
 
