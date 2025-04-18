@@ -21,14 +21,7 @@ keywords: 4月18日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 <span style="font-size: 18pt;"><strong><span style="color: #ff0000;">本站推荐机场以最新日期为准！！！往期推荐可能有过期，失联，倒闭和跑路风险！！！</span></strong></span>
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 
 *****
 
