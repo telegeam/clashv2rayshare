@@ -29,7 +29,7 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [点击注册](https://kkjiasu.top/#/register?code=lhGhQflc) | |8 元 200G/月 |  |
+| [KK加速](#ef) | [点击注册](https://kuaimao.io/#/register?code=9xg6G0AV) | |10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -38,18 +38,7 @@ topmost: true
 
 ## [简介](#简介)
 
-### [KK加速](#ef)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
