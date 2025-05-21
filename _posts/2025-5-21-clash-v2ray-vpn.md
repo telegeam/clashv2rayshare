@@ -29,7 +29,7 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [点击注册](https://kuaimao.io/#/register?code=9xg6G0AV) | |10 元 200G/月 |  |
+| [快猫加速](#ef) | [点击注册](https://kuaimao.io/#/register?code=9xg6G0AV) | |10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
