@@ -1,6 +1,6 @@
 ---
-created: 2025-5-20T08:05:32+08:00
-modified: 2025-5-20T08:21:23+08:00
+created: 2025-5-21T08:05:32+08:00
+modified: 2025-5-21T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -119,12 +119,12 @@ modified: 2025-5-20T08:21:23+08:00
 * * *
 ###  高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://kuaimao.io/#/register?code=9xg6G0AV)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 <!---###  高速机场推荐2
 
@@ -146,13 +146,13 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 高速机场推荐4
 
-[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 ###  高速机场推荐5
 
