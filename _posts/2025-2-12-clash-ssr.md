@@ -21,9 +21,9 @@ keywords: 2月12日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 <span style="font-size: 18pt;"><strong><span style="color: #ff0000;">本站推荐机场以最新日期为准！！！往期推荐可能有过期，失联，倒闭和跑路风险！！！</span></strong></span>
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://tg-nav.github.io/nodeshare/)
 
-注册链接：[点击进入](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[点击进入](https://tg-nav.github.io/nodeshare/)
 
 
 便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
@@ -113,12 +113,12 @@ keywords: 2月12日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 ###  高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://tg-nav.github.io/nodeshare/)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 
 
@@ -134,13 +134,13 @@ keywords: 2月12日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 ### 高速机场推荐4
 
-[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【快猫】](https://tg-nav.github.io/nodeshare/)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【快猫官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 ###  高速机场推荐5
 
