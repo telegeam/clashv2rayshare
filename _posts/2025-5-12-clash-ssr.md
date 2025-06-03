@@ -106,12 +106,12 @@ keywords: 5月12日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 ###  高速机场推荐1
 
-[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【KK加速】](https://tg-nav.github.io/nodeshare/)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【KK加速官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【KK加速官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 
 
