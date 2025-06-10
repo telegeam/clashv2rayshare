@@ -25,6 +25,19 @@ keywords: 6月10日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 
 *****
 
+### [冲上云霄](https://cpdd.one/?r=42354)
+
+点击注册：[点击进入](https://cpdd.one/?r=42354)
+
+试用：1天 1G
+
+最便宜的订阅有10元 300G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+* * *
+
+
 ### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
 
 注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
@@ -91,18 +104,17 @@ keywords: 6月10日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,节点,�
 * * *
 
 
-### [冲上云霄](#冲上云霄)
+### [冲上云霄](https://cpdd.one/?r=42354)
 
-注册链接：[点击进入](https://cpdd.one/?r=32083)
+点击注册：[点击进入](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
-最便宜的订阅有5元 150G/30天。
+最便宜的订阅有10元 300G/30天。
 
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 * * *
-
 
 
 
