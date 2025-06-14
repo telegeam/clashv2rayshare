@@ -1,6 +1,6 @@
 ---
-created: 2025-6-13T08:05:32+08:00
-modified: 2025-6-13T08:21:23+08:00
+created: 2025-6-14T08:05:32+08:00
+modified: 2025-6-14T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -9,7 +9,17 @@ modified: 2025-6-13T08:21:23+08:00
 ## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
+* * *
 
+ ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+试用:1天2G
+解锁奈飞迪士尼
+
+注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+*  *   *
 
 
 ### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
