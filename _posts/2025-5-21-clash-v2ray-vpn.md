@@ -29,6 +29,7 @@ topmost: true
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
+| [88云加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 | ✔支持 |
 | [快猫加速](#ef) | [点击注册](https://kuaimao.io/#/register?code=9xg6G0AV) | |10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 | |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
@@ -38,6 +39,19 @@ topmost: true
 
 ## [简介](#简介)
 
+
+
+### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+试用:1天2G
+
+解锁奈飞迪士尼
+
+注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+*  *   *
 
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
