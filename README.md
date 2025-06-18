@@ -13,11 +13,12 @@ modified: 2025-6-18T08:21:23+08:00
 
  ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+原生支持解锁流媒体，
 试用:1天2G
 解锁奈飞迪士尼
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+#注册地址：[【88云加速（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 *  *   *
 
