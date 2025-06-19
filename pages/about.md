@@ -9,38 +9,59 @@ permalink: /about/
 ---
 关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息，
 
-## 科学上网机场推荐
 
-### [狗狗加速器](#狗狗加速器)
+### [KK加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击注册](https://www.dginv.click/#/register?code=yi5aid0d)
-
-
-试用：
-
-最便宜的订阅有15.8元 160G/月。
-
-集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;
-
-* * *
-
-
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[KK加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：无
 
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+
+
+最便宜的订阅有10元 120G/月。
+
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+
+
+* * *
+
+* * *
+### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
+
+注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
+
+试用：
+
+最便宜的订阅有5.9元 39G/月。
+
+便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
 
 * * *
+### [冲上云霄](#冲上云霄)
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://cpdd.one/?r=32083)
 
-注册链接：[点击注册](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+试用：1天 1G
+
+最便宜的订阅有5元 150G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+
+* * *
+
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -50,12 +71,9 @@ permalink: /about/
 
 最大的缺点就是太便宜了
 
-* * *
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
-
-注册链接：[点击注册](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -65,10 +83,9 @@ permalink: /about/
 
 * * *
 
-
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-注册链接：[点击注册](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 试用：
@@ -79,38 +96,9 @@ permalink: /about/
 
 * * *
 
-
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[点击注册](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
-
-
-
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
-
-注册链接：[点击注册](https://goudan.site/#/register?code=LQzUg4EU)
-
-
-试用：
-
-最便宜的订阅有9元 120G/月。
-
-最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持
-
-* * *
-
 ### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
-注册链接：[点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -121,49 +109,10 @@ permalink: /about/
 
 * * *
 
-### [加速啦](https://jiasu.la/?r=42350)
 
-注册链接：[点击注册](https://jiasu.la/?r=42350)
+### [冲上云霄](#冲上云霄)
 
-
-试用：1G 不限时
-
-最便宜的订阅有10元 60G/月。
-
-全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
-* * *
-
-
-### [火烧云](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-注册链接：[huoshaoyun.pro/](https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk)
-
-试用：无
-
-最便宜的订阅有18元 100G/月。
-
-这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
-
-* * *
-
-### [快猫](https://kuaimao.io/#/register?code=9xg6G0AV)
-
-注册链接：[kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV)
-
-
-试用：无
-
-最便宜的订阅有10元 100G/月。
-
-机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
-
-* * *
-
-
-### [冲上云霄](https://cpdd.one/?r=32083)
-
-注册链接：[点击注册](https://cpdd.one/?r=32083)
+注册链接：[点击进入](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -173,17 +122,75 @@ permalink: /about/
 
 * * *
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
+<!---### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
 
-试用：无
+试用：
 
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+最便宜的订阅有10元 100G/月。
 
-最大的缺点就是太便宜了
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量---->
+
+
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+
+
+
+最便宜的订阅有10元 120G/月。
+
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+
 
 * * *
+### 高速机场推荐4 KK加速
+
+高速机场推荐4[【KK加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+8元200G,原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+### 高速机场推荐5 火烧云
+
+高速机场推荐5[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+
+奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
+
+💡
+ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
+
+👉[[点击注册]](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+
+
+<!---### 高速机场推荐2 FCCloud
+
+👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)---->
+
+### 高速机场推荐1 快猫
+高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+季付送小火箭，流量多，优惠多
+
+而且不限登录设备数，解锁奈飞
+
+👉[[点击注册]](https://kuaimao.io/#/register?code=9xg6G0AV)
+
+
+### 高速机场推荐3 轻云
+
+👉高速机场推荐3  [【轻云】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
+原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+解锁奈飞迪士尼
+
+👉注册地址： [【轻云官网（点击注册）】](https://a1.qingyun.site/#/register?code=tIk5c8YQ)
+
 
 
