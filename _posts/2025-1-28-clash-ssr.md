@@ -48,9 +48,9 @@ keywords: 1月28日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -71,9 +71,9 @@ keywords: 1月28日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 * * *
 
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：

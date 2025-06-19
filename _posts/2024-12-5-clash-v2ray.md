@@ -30,11 +30,11 @@ keywords: 12月5日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[【FCCloud】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【FCCloud（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ### 高速机场推荐3
 
@@ -96,8 +96,8 @@ https://lailai159.serv00.net/uploads/2024/12/20241205.yaml
 
 ###  高速机场推荐6
 
-[「 极速云」](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[「 极速云」](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册地址：[【极速云官网（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【极速云官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 全球节点，解锁流媒体GPT，平民价格

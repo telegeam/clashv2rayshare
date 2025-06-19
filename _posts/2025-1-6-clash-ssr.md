@@ -50,9 +50,9 @@ keywords: 1月6日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 * * *
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -106,11 +106,11 @@ keywords: 1月6日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 ###  高速机场推荐2
 
-[【FCCloud】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[【FCCloud】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 FCCloud全球节点，解锁流媒体GPT，平民价格
 
-注册地址：[【FCCloud（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【FCCloud（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 ### 高速机场推荐3
 
@@ -172,8 +172,8 @@ https://a.nodeshare.xyz/uploads/2025/1/20250106.yaml
 
 ###  高速机场推荐6
 
-[「 极速云」](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+[「 极速云」](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册地址：[【极速云官网（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+注册地址：[【极速云官网（点击注册）】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 全球节点，解锁流媒体GPT，平民价格
