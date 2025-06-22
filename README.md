@@ -53,9 +53,9 @@ modified: 2025-6-22T08:21:23+08:00
 * * *
 
 
-### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
-注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
 试用：
 
