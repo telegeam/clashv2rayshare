@@ -115,9 +115,9 @@ permalink: /links/
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
