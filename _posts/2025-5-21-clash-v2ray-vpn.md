@@ -33,7 +33,7 @@ topmost: true
 | [快猫加速](#ef) | [点击注册](https://kuaimao.io/#/register?code=9xg6G0AV) | |10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 | |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击注册](https://www.dginv.click/#/register?code=yi5aid0d)|  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
+| [flybit](#flybit) | [点击注册](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击注册](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击注册](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 | ✔支持 |
 
@@ -121,7 +121,7 @@ topmost: true
 
 ### [flybit](#flybit)
 
-注册链接：[点击注册](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击注册](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G

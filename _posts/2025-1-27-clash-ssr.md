@@ -79,9 +79,9 @@ keywords: 1月27日Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节�
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[flybit.my](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
