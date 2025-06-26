@@ -1,6 +1,6 @@
 ---
-created: 2025-6-25T08:05:32+08:00
-modified: 2025-6-25T08:21:23+08:00
+created: 2025-6-26T08:05:32+08:00
+modified: 2025-6-26T08:21:23+08:00
 ---
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新
 
@@ -92,9 +92,9 @@ modified: 2025-6-25T08:21:23+08:00
 * * *
 
 
-### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [西游云](https://goudan.site/#/register?code=2mVFWPT1))
 
-注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击进入](https://goudan.site/#/register?code=2mVFWPT1))
 
 
 试用：
@@ -105,9 +105,9 @@ modified: 2025-6-25T08:21:23+08:00
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -133,12 +133,12 @@ modified: 2025-6-25T08:21:23+08:00
 
 ###  高速机场推荐1
 
-[【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 不限设备数
 
 解锁流媒体、chatGPT
 
-注册地址：[【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+注册地址：[【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 <!---###  高速机场推荐2
 
@@ -150,23 +150,23 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 ### 高速机场推荐3
 
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+[【火烧云】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+注册地址：[【火烧云官网（点击注册）】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐4
 
-[【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
+[【快猫】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=9xg6G0AV)
+注册地址：[【快猫官网（点击注册）】](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV)
 
 ###  高速机场推荐5
 
