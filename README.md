@@ -16,7 +16,7 @@ modified: 2025-08-14
  ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，
-新用户10元200G/月
+新用户10元300G/月
 解锁奈飞迪士尼
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
