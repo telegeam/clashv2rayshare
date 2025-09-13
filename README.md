@@ -8,9 +8,9 @@ modified: 2025-09-13
 
 **https://telegeam.github.io/clashv2rayshare/**
 
-## [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+## [TG账号商店 ](https://shop.idbb.me/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
+[点击进入TG账号商店 ](https://shop.idbb.me/)
 * * *
 
  ### [【88云加速】](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
@@ -52,7 +52,17 @@ modified: 2025-09-13
 
 * * *
 
+* * *
+<h3></h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://138.2.82.216/#/register?code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
+<h3>· 高速·稳定·无限可能</h3>
+<h3>1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！</h3>
+<h3>2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！</h3>
+<h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
+<h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
+<h3></h3>
 
+* * *
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
 注册链接：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
@@ -92,9 +102,9 @@ modified: 2025-09-13
 * * *
 
 
-### [西游云](https://goudan.site/#/register?code=2mVFWPT1))
+### [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1))
 
-注册链接：[点击进入](https://goudan.site/#/register?code=2mVFWPT1))
+注册链接：[点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1))
 
 
 试用：
