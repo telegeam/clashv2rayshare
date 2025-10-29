@@ -63,9 +63,9 @@ modified: 2025-10-29
 <h3></h3>
 
 * * *
-### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+### [星辰VPN](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+注册链接：[点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
 试用：
 
