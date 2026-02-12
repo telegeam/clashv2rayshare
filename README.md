@@ -152,14 +152,7 @@ modified: 2026-02-12
 
 
 ### 高速机场推荐3
-
-[【火烧云】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-季付送小火箭，流量多，优惠多
-
-而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-注册地址：[【火烧云官网（点击注册）】](https://cn2.huoshaoyun.pro/#/register?code=iYoHYy6g)
+1
 
 ### 高速机场推荐4
 
