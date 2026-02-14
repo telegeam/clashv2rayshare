@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  「2月12日」2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
+title:  「2月14日」2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链]
-description: 2月12日2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
+description: 2月14日2026年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接
 keywords: Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链
 topmost: false
 ---
@@ -154,16 +154,16 @@ topmost: false
 
 ### Clash订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260212.yaml
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260214.yaml
 -
 
 ### V2ray订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260212.txt
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260214.txt
 - 
 ### Sing-box订阅链接
 
-- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260212.json
+- https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/2/20260214.json
 
 ___________________________________________
 1. 勇敢前行，成功就在转角等你。
